@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430189706663",
+    "firebase_url": "https://sell-e074c-default-rtdb.firebaseio.com",
+    "project_id": "sell-e074c",
+    "storage_bucket": "sell-e074c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430189706663:android:df1212b5f014aa16590a82",
+        "android_client_info": {
+          "package_name": "com.example.footballfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430189706663-i8scp3iqpoa55bc7kbrh277hddk55e1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.footballfashion",
+            "certificate_hash": "5d1e4666c3ba86434787d416fa317d3ae24b1ddf"
+          }
+        },
+        {
+          "client_id": "430189706663-ovagiea5n9g7giaokja7i1j5v9n2g44l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWAQDdTSHlLv02Ty0YAi6LyLX_cXY10k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430189706663-ovagiea5n9g7giaokja7i1j5v9n2g44l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
